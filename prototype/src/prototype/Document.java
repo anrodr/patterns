@@ -1,6 +1,6 @@
 package prototype;
 
-public class Document implements DocumentoPrototype, Cloneable {
+public class Document implements DocumentPrototype, Cloneable {
     private String contenido;
 
     public Document() {

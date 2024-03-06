@@ -1,7 +1,7 @@
 package prototype;
 
-public interface DocumentoPrototype {
-     DocumentoPrototype clonar();
+public interface DocumentPrototype {
+     DocumentPrototype clonar();
      void rellenar(String contenido);
      void imprimir();
 }
