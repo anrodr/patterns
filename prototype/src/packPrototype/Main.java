@@ -1,4 +1,5 @@
-package prototype;
+package packPrototype;
+
 
 public class Main {
     public static void main(String[] args) {
@@ -10,7 +11,7 @@ public class Main {
         System.out.println("Document base:");
         documentBase.imprimir();
 
-        System.out.println("Document personalizado:");
+        System.out.println("\nDocument personalizado:");
         documentPersonalize.imprimir();
     }
 }

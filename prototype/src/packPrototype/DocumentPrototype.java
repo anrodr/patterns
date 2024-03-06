@@ -1,4 +1,4 @@
-package prototype;
+package packPrototype;
 
 public interface DocumentPrototype {
      DocumentPrototype clonar();

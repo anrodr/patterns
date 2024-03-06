@@ -1,4 +1,4 @@
-package prototype;
+package packPrototype;
 
 public class Document implements DocumentPrototype, Cloneable {
     private String contenido;
