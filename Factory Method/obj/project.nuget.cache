@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kzctbkxoszkydDtdYxOEgY1tYUjkQ9BdF0gpqw+m9vf4a44i/Y5+Uc7/1Ab8T/1KQ2WqHdlaEPr87BywtpmpaQ==",
+  "dgSpecHash": "3xIaHsoCyExw+ubq3MbEtwACqdbyrm0+T/sOxQAF5YicV8jVyWkDOo4aB9BS0dSPeSKDd4fFJMAmgly7QizZQQ==",
   "success": true,
-  "projectFilePath": "D:\\ITM-Especialización\\Patros y Diesños\\Ejercicios C#\\Factory Method\\Food.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Especializacion\\Patrones de diseño\\Trabajo 1 - Patrones de diseño\\patterns\\Factory Method\\Food.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
