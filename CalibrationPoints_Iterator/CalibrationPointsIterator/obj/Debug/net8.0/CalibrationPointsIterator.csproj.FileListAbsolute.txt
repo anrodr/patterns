@@ -1,0 +1,28 @@
+C:\ITM\Patrones\CalibrationPointsIterator\CalibrationPointsIterator\bin\Debug\net8.0\CalibrationPointsIterator.exe
+C:\ITM\Patrones\CalibrationPointsIterator\CalibrationPointsIterator\bin\Debug\net8.0\CalibrationPointsIterator.deps.json
+C:\ITM\Patrones\CalibrationPointsIterator\CalibrationPointsIterator\bin\Debug\net8.0\CalibrationPointsIterator.runtimeconfig.json
+C:\ITM\Patrones\CalibrationPointsIterator\CalibrationPointsIterator\bin\Debug\net8.0\CalibrationPointsIterator.dll
+C:\ITM\Patrones\CalibrationPointsIterator\CalibrationPointsIterator\bin\Debug\net8.0\CalibrationPointsIterator.pdb
+C:\ITM\Patrones\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\CalibrationPointsIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITM\Patrones\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\CalibrationPointsIterator.AssemblyInfoInputs.cache
+C:\ITM\Patrones\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\CalibrationPointsIterator.AssemblyInfo.cs
+C:\ITM\Patrones\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\CalibrationPointsIterator.csproj.CoreCompileInputs.cache
+C:\ITM\Patrones\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\CalibrationPointsIterator.dll
+C:\ITM\Patrones\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\refint\CalibrationPointsIterator.dll
+C:\ITM\Patrones\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\CalibrationPointsIterator.pdb
+C:\ITM\Patrones\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\CalibrationPointsIterator.genruntimeconfig.cache
+C:\ITM\Patrones\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\ref\CalibrationPointsIterator.dll
+D:\ITM-Especialización\Patros y Diesños\Ejercicios C#\CalibrationPointsIterator\CalibrationPointsIterator\bin\Debug\net8.0\CalibrationPointsIterator.exe
+D:\ITM-Especialización\Patros y Diesños\Ejercicios C#\CalibrationPointsIterator\CalibrationPointsIterator\bin\Debug\net8.0\CalibrationPointsIterator.deps.json
+D:\ITM-Especialización\Patros y Diesños\Ejercicios C#\CalibrationPointsIterator\CalibrationPointsIterator\bin\Debug\net8.0\CalibrationPointsIterator.runtimeconfig.json
+D:\ITM-Especialización\Patros y Diesños\Ejercicios C#\CalibrationPointsIterator\CalibrationPointsIterator\bin\Debug\net8.0\CalibrationPointsIterator.dll
+D:\ITM-Especialización\Patros y Diesños\Ejercicios C#\CalibrationPointsIterator\CalibrationPointsIterator\bin\Debug\net8.0\CalibrationPointsIterator.pdb
+D:\ITM-Especialización\Patros y Diesños\Ejercicios C#\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\CalibrationPointsIterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITM-Especialización\Patros y Diesños\Ejercicios C#\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\CalibrationPointsIterator.AssemblyInfoInputs.cache
+D:\ITM-Especialización\Patros y Diesños\Ejercicios C#\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\CalibrationPointsIterator.AssemblyInfo.cs
+D:\ITM-Especialización\Patros y Diesños\Ejercicios C#\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\CalibrationPointsIterator.csproj.CoreCompileInputs.cache
+D:\ITM-Especialización\Patros y Diesños\Ejercicios C#\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\CalibrationPointsIterator.dll
+D:\ITM-Especialización\Patros y Diesños\Ejercicios C#\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\refint\CalibrationPointsIterator.dll
+D:\ITM-Especialización\Patros y Diesños\Ejercicios C#\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\CalibrationPointsIterator.pdb
+D:\ITM-Especialización\Patros y Diesños\Ejercicios C#\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\CalibrationPointsIterator.genruntimeconfig.cache
+D:\ITM-Especialización\Patros y Diesños\Ejercicios C#\CalibrationPointsIterator\CalibrationPointsIterator\obj\Debug\net8.0\ref\CalibrationPointsIterator.dll
